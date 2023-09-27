@@ -18,7 +18,7 @@ const Banner = ({ setShowSignInModal, showCity, setShowCity }) => {
     if (isSignedIn) {
       setShowCity(true);
     } else {
-      setShowSignInModal(true);
+      setShowCity(true);
     }
   };
 

@@ -82,7 +82,7 @@ const PersonList = ({
                   <div className="text-left px-[25px] py-[10px]">
                     <div className="flex items-center justify-between pb-[10px] border-b-[.5px] border-[#000]">
                       <p className="text-[#000] text-[18px] md:text-[25px] font-[400]">
-                        uglyduck
+                        Min Lee
                       </p>
                       <p className="text-[#000] text-[12px] md:text-[15px] font-[300]">
                         Bangkok

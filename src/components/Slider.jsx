@@ -11,7 +11,7 @@ const Slider = ({ setShowSignInModal, setShowCity }) => {
     if (isSignedIn) {
       setShowCity(true);
     } else {
-      setShowSignInModal(true);
+      setShowCity(true);
     }
   };
 
